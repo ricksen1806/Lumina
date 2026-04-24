@@ -14,7 +14,7 @@ body{
 }
 
 .head{
-    width: 30vw;
+    width: 35vw;
     margin-left: 3%;
 }
 .head h1{
@@ -29,6 +29,7 @@ body{
 }
 
 .search{
+    width: 38%;
     height: 26px;
     border-radius: 6px;
     border: none;
